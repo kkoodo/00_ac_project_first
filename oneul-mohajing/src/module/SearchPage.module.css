@@ -1,0 +1,29 @@
+.result {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 1.3em;
+    font-family: 'Pretendard-Regular';
+    margin-left: 10px;
+}
+
+.search {
+    font-weight: bold;
+}
+
+.count {
+    color: red;
+    font-weight: bold;
+}
+
+.board div{
+    display: inline-block;
+    margin: 10px;
+}
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}

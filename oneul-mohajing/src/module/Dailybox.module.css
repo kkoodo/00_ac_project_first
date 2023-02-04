@@ -1,0 +1,32 @@
+.DailyStyle {
+    width: 280px;
+    height: 350px;
+    background-color: #f8f8f8;
+    cursor: pointer;
+    color: black;
+    font-family: "Binggrae";
+    font-size:large;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgba(162, 183,189, 0.6);
+    padding: 20px;
+}
+
+.DailyStyle:hover {
+    background-color: purple;
+    color: white;
+}
+
+.oneLine {
+    height: 70px;
+    overflow: hidden;
+}
+
+.Cake {
+    height: 50px;
+}
+
+.dateAndCake {
+    display: flex;
+    align-items: center;
+}

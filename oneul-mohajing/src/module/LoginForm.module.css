@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'CWDangamAsac-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/CWDangamAsac-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MonoplexKR-Italic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_Monoplex-kr@1.0/MonoplexKR-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Logo {
+    font-family: 'CWDangamAsac-Bold';
+    font-size: 90px;
+    font-style: italic;
+    height: 100px;
+    text-align: center;
+}
+
+.Total {
+    width: 100%;
+    text-align: center;
+}
+
+.Span {
+    font-family: 'MonoplexKR-Italic';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Box {
+    width: 1000px;
+    height: 250px;
+    margin: auto;
+    border-radius: 30px 30px 0px 0px;
+    background-color: #A2B7BD;
+}
+
+.Input {
+    width: 300px;
+    height: 40px;
+    font-family: 'MonoplexKR-Italic';
+    font-size: 15px;
+    border-radius: 30px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.Button1 {
+    
+    width: 1000px;
+    height: 80px;
+    margin: auto;
+    background-color: #A2B7BD;
+}
+
+.Button11 {
+    width: 150px;
+    height: 40px;
+    color: white;
+    font-family: 'MonoplexKR-Italic';
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #7378AB;
+    border-radius: 30px;
+    border: 2px solid gray;
+}
+
+.Button11:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.Button2 {
+    width: 1000px;
+    height: 80px;
+    margin: auto;
+    background-color: #A2B7BD;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.Button22 {
+    width: 120px;
+    height: 35px;
+    font-family: 'MonoplexKR-Italic';
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(145, 163, 172);
+    border-radius: 30px;
+    border: 0px solid gray;
+    color: white;
+}
+
+.Button22:hover {
+    cursor: pointer;
+    opacity: 70%;
+}

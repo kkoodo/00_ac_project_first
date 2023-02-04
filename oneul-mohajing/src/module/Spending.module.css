@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "BinggraeBold";
+    src: url("../fonts/BinggraeMelona.ttf");
+}
+
+@font-face {
+    font-family: "Binggrae";
+    src: url("../fonts/BinggraeSamanco.ttf");
+}
+
+.todayMoney {
+    width:400px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.todayMoney div {
+    display: inline-flex;
+    align-items: center;
+}
+
+.red{
+    color:red;
+    flex-direction: row-reverse;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 10px;
+    border-style: hidden;
+    box-shadow: 0 0 0 1px rgba(100, 100, 100, 0.3);
+    padding:40px;
+}
+
+.table {
+    border-color: rgba(100, 100, 100, 0.3);
+}
+
+.click:hover {
+    background-color: rgb(238, 201, 201);
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+tr {
+    height: 40px;
+}
+
+.round {
+    border-radius: 20px;
+    height: 20px;
+    text-align: center;
+    border: 1px solid rgba(185, 190, 198, 1);
+}
+
+.search {
+    border-radius: 20px;
+    border: 0px;
+    background-color: rgba(185, 190, 198, 1);
+    color: white;
+    height: 25px;
+    width: 70px;
+    text-align: center;
+}
+
+.search:hover {
+    background-color: rgba(115, 120, 171, 1);
+    color: black;
+}

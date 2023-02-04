@@ -1,0 +1,7 @@
+.errorimg {
+    margin: auto;
+    width: 1000px;
+    height: 800px;
+    background-image: url('../../public/images/error.png');
+    background-size: cover;
+}

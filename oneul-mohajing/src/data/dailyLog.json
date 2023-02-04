@@ -1,0 +1,478 @@
+{
+  "user": [
+    {
+      "name": "일석이조",
+      "password": "1234"
+    }
+  ],
+  "diary" : [
+    {
+      "date" : 20221001,
+      "isAnniversary" : false,
+      "hashTag" : "#일상 #학원",
+      "schedule" : "평소와 동일하게 학원에 등원하고 평소에 먹는 식당에서 식사를 하며 무엇하나 다를 거 없는 평화로운 하루다.",
+      "spending" : {
+        "transportation" : 2500,
+        "food" : 12000,
+        "cultural" : 0,
+        "etc" : 0
+      },
+      "image" : "/images/20221001.PNG"
+    },
+    {
+      "date" : 20221005,
+      "isAnniversary" : false,
+      "hashTag" : "#카페 #맥주",
+      "schedule" : "주말을 맞아 오래만에 근방의 카페를 방문하였다. 저녁은 카페 근처에서 피자와 맥주를 마시며 주말을 마무리하였다. ",
+      "spending" : {
+        "transportation" : 3750,
+        "food" : 20000,
+        "cultural" : 30000,
+        "etc" : 30000
+      },
+      "image" : "/images/20221005.PNG"
+    },
+    {
+      "date" : 20221007,
+      "isAnniversary" : false,
+      "hashTag" : "#유미언니 #결혼식",
+      "schedule" : "동기 언니의 결혼식에 다녀왔다. 신부 드레스를 입은 언니 모습이 너무 예뻤다. 나는 언제 결혼할까..? 결혼식 뷔페가 참 맛있었다 :) ",
+      "spending" : {
+        "transportation" : 3500,
+        "food" : 23000,
+        "cultural" : 150000,
+        "etc" : 2000
+      },
+      "image" : "/images/20221007.PNG"
+    },
+    {
+      "date" : 20221010,
+      "isAnniversary" : true,
+      "hashTag" : "#병가 #파스타",
+      "schedule" : "몸이 좋지 않아서 오늘은 집에서 쉬었다. 저녁에는 파스타를 해 먹었다. 소금을 많이 넣었는지 조금 짰다..",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 6000,
+        "cultural" : 12000,
+        "etc" : 0
+      },
+      "image" : "/images/20221010.PNG"
+    },
+    {
+      "date" : 20221011,
+      "isAnniversary" : false,
+      "hashTag" : "#마트 #학원",
+      "schedule" : "마트에 장 보러 가면 왜 항상 예산이 초과되는지? 자아성찰의 시간 3초 가진 다음 먹은 순두부찌개는 역대급 저녁이었다..",
+      "spending" : {
+        "transportation" : 3000,
+        "food" : 56000,
+        "cultural" : 6000,
+        "etc" : 0
+      },
+      "image" : "/images/20221011.PNG"
+    },
+    {
+      "date" : 20221013,
+      "isAnniversary" : true,
+      "hashTag" : "#카페 #결혼식",
+      "schedule" : "친구가 명동 대성당에서 결혼을 한다기에 갔는데 왠걸 너무 아름답자나ㅠㅠㅠㅠㅠㅠㅠ ㄴr는 ㄱr끔 눈물을 흘린다...★",
+      "spending" : {
+        "transportation" : 7000,
+        "food" : 15000,
+        "cultural" : 12000,
+        "etc" : 100000
+      },
+      "image" : "/images/20221013.PNG"
+    },
+    {
+      "date" : 20221017,
+      "isAnniversary" : false,
+      "hashTag" : "#병원",
+      "schedule" : "뼈와 인대회복을 위해 충격파 치료 받음, 비싸다.",
+      "spending" : {
+        "transportation" : 2400,
+        "food" : 8000,
+        "cultural" : 0,
+        "etc" : 100000
+      },
+      "image" : "/images/20221017.PNG"
+    },
+    {
+      "date" : 20221020,
+      "isAnniversary" : false,
+      "hashTag" : "#산책",
+      "schedule" : "재활을 위해 동네 공원을 천천히 걸엇다.",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 0,
+        "cultural" : 0,
+        "etc" : 0
+      },
+      "image" : "/images/20221020.PNG"
+    },
+    {
+      "date" : 20221021,
+      "isAnniversary" : false,
+      "hashTag" : "#식당 #데이트",
+      "schedule" : "여자친구와 가벼운 복장으로 유명한 파스타를 먹으러 갔는데, 줄이 길어서 한참을 웨이팅을 한 후 먹었지만 너무나 맛이 없었다.",
+      "spending" : {
+          "transportation" : 13000,
+          "food" : 47000,
+          "cultural" : 0,
+          "etc" : 0
+        },
+        "image" : "/images/20221021.PNG"
+    },
+    {
+      "date" : 20221023,
+      "isAnniversary" : true,
+      "hashTag" : "#기념일 #스테이크 #선물",
+      "schedule" : "만난지 16년이 지나 기분을 낼겸 레스토랑을 가서 스테이크를 맛있게 먹고, 선물로 향수를 사주었더니 한달치 생활비가 다나갔지만 마음을 행복하다.",
+      "spending" : {
+        "transportation" : 5000,
+        "food" : 137000,
+        "cultural" : 22000,
+        "etc" : 150000
+      },
+      "image" : "/images/20221023.PNG"
+    },
+    {
+      "date" : 20221026,
+      "isAnniversary" : false,
+      "hashTag" : "#헬스장 #도서관",
+      "schedule" : "커피 한잔 사서 헬스장에서 한시간정도 운동하고 오는길에 도서관에서 보고 싶었던 책을 발견해서 대출해 왔다!",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 13000,
+        "cultural" : 2000,
+        "etc" : 0
+      },
+      "image" : "/images/20221026.PNG"
+    },
+    {
+      "date" : 20221029,
+      "isAnniversary" : true,
+      "hashTag" : "#볼링장 #코인노래방",
+      "schedule" : "친구 생일이라 동네에서 친구들이랑 볼링치면서 내기하고 저녁먹은 다음 코인노래방에서 다같이 노래부르고 놀면서 생일축하해주고 왔다. 생일선물로 다같이 모아서 신발 사줬다",
+      "spending" : {
+        "transportation" : 4500,
+        "food" : 16000,
+        "cultural" : 23000,
+        "etc" : 25000
+      },
+      "image" : "/images/20221029.PNG"
+    },
+    {
+      "date" : 20221101,
+      "isAnniversary" : false,
+      "hashTag" : "#일상 #학원",
+      "schedule" : "평소와 동일하게 학원에 등원하고 평소에 먹는 식당에서 식사를 하며 무엇하나 다를 거 없는 평화로운 하루다.",
+      "spending" : {
+        "transportation" : 2500,
+        "food" : 12000,
+        "cultural" : 0,
+        "etc" : 0
+      },
+      "image" : "/images/20221101.PNG"
+    },
+    {
+      "date" : 20221105,
+      "isAnniversary" : false,
+      "hashTag" : "#카페 #맥주",
+      "schedule" : "주말을 맞아 오래만에 근방의 카페를 방문하였다. 저녁은 카페 근처에서 피자와 맥주를 마시며 주말을 마무리하였다. ",
+      "spending" : {
+        "transportation" : 3750,
+        "food" : 20000,
+        "cultural" : 30000,
+        "etc" : 30000
+      },
+      "image" : "/images/20221105.PNG"
+    },
+    {
+      "date" : 20221107,
+      "isAnniversary" : false,
+      "hashTag" : "#유미언니 #결혼식",
+      "schedule" : "동기 언니의 결혼식에 다녀왔다. 신부 드레스를 입은 언니 모습이 너무 예뻤다. 나는 언제 결혼할까..? 결혼식 뷔페가 참 맛있었다 :) ",
+      "spending" : {
+        "transportation" : 3500,
+        "food" : 23000,
+        "cultural" : 150000,
+        "etc" : 2000
+      },
+      "image" : "/images/20221107.PNG"
+    },
+    {
+      "date" : 20221110,
+      "isAnniversary" : true,
+      "hashTag" : "#병가 #파스타",
+      "schedule" : "몸이 좋지 않아서 오늘은 집에서 쉬었다. 저녁에는 파스타를 해 먹었다. 소금을 많이 넣었는지 조금 짰다..",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 6000,
+        "cultural" : 12000,
+        "etc" : 0
+      },
+      "image" : "/images/20221110.PNG"
+    },
+    {
+      "date" : 20221111,
+      "isAnniversary" : false,
+      "hashTag" : "#마트 #학원",
+      "schedule" : "마트에 장 보러 가면 왜 항상 예산이 초과되는지? 자아성찰의 시간 3초 가진 다음 먹은 순두부찌개는 역대급 저녁이었다..",
+      "spending" : {
+        "transportation" : 3000,
+        "food" : 56000,
+        "cultural" : 6000,
+        "etc" : 0
+      },
+      "image" : "/images/20221111.PNG"
+    },
+    {
+      "date" : 20221113,
+      "isAnniversary" : true,
+      "hashTag" : "#카페 #결혼식",
+      "schedule" : "친구가 명동 대성당에서 결혼을 한다기에 갔는데 왠걸 너무 아름답자나ㅠㅠㅠㅠㅠㅠㅠ ㄴr는 ㄱr끔 눈물을 흘린다...★",
+      "spending" : {
+        "transportation" : 7000,
+        "food" : 15000,
+        "cultural" : 12000,
+        "etc" : 100000
+      },
+      "image" : "/images/20221113.PNG"
+    },
+    {
+      "date" : 20221117,
+      "isAnniversary" : false,
+      "hashTag" : "#병원",
+      "schedule" : "뼈와 인대회복을 위해 충격파 치료 받음, 비싸다.",
+      "spending" : {
+        "transportation" : 2400,
+        "food" : 8000,
+        "cultural" : 0,
+        "etc" : 100000
+      },
+      "image" : "/images/20221117.PNG"
+    },
+    {
+      "date" : 20221120,
+      "isAnniversary" : false,
+      "hashTag" : "#산책",
+      "schedule" : "재활을 위해 동네 공원을 천천히 걸엇다.",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 0,
+        "cultural" : 0,
+        "etc" : 0
+      },
+      "image" : "/images/20221120.PNG"
+    },
+    {
+      "date" : 20221121,
+      "isAnniversary" : false,
+      "hashTag" : "#식당 #데이트",
+      "schedule" : "여자친구와 가벼운 복장으로 유명한 파스타를 먹으러 갔는데, 줄이 길어서 한참을 웨이팅을 한 후 먹었지만 너무나 맛이 없었다.",
+      "spending" : {
+          "transportation" : 13000,
+          "food" : 47000,
+          "cultural" : 0,
+          "etc" : 0
+        },
+        "image" : "/images/20221121.PNG"
+    },
+    {
+      "date" : 20221123,
+      "isAnniversary" : true,
+      "hashTag" : "#기념일 #스테이크 #선물",
+      "schedule" : "만난지 16년이 지나 기분을 낼겸 레스토랑을 가서 스테이크를 맛있게 먹고, 선물로 향수를 사주었더니 한달치 생활비가 다나갔지만 마음을 행복하다.",
+      "spending" : {
+        "transportation" : 5000,
+        "food" : 137000,
+        "cultural" : 22000,
+        "etc" : 150000
+      },
+      "image" : "/images/20221123.PNG"
+    },
+    {
+      "date" : 20221126,
+      "isAnniversary" : false,
+      "hashTag" : "#헬스장 #도서관",
+      "schedule" : "커피 한잔 사서 헬스장에서 한시간정도 운동하고 오는길에 도서관에서 보고 싶었던 책을 발견해서 대출해 왔다!",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 13000,
+        "cultural" : 2000,
+        "etc" : 0
+      },
+      "image" : "/images/20221126.PNG"
+    },
+    {
+      "date" : 20221129,
+      "isAnniversary" : true,
+      "hashTag" : "#볼링장 #코인노래방",
+      "schedule" : "친구 생일이라 동네에서 친구들이랑 볼링치면서 내기하고 저녁먹은 다음 코인노래방에서 다같이 노래부르고 놀면서 생일축하해주고 왔다. 생일선물로 다같이 모아서 신발 사줬다",
+      "spending" : {
+        "transportation" : 4500,
+        "food" : 16000,
+        "cultural" : 23000,
+        "etc" : 25000
+      },
+      "image" : "/images/20221129.PNG"
+    },
+    {
+      "date" : 20221201,
+      "isAnniversary" : false,
+      "hashTag" : "#일상 #학원",
+      "schedule" : "평소와 동일하게 학원에 등원하고 평소에 먹는 식당에서 식사를 하며 무엇하나 다를 거 없는 평화로운 하루다.",
+      "spending" : {
+        "transportation" : 2500,
+        "food" : 12000,
+        "cultural" : 0,
+        "etc" : 0
+      },
+      "image" : "/images/20221201.PNG"
+    },
+    {
+      "date" : 20221205,
+      "isAnniversary" : false,
+      "hashTag" : "#카페 #맥주",
+      "schedule" : "주말을 맞아 오래만에 근방의 카페를 방문하였다. 저녁은 카페 근처에서 피자와 맥주를 마시며 주말을 마무리하였다. ",
+      "spending" : {
+        "transportation" : 3750,
+        "food" : 20000,
+        "cultural" : 30000,
+        "etc" : 30000
+      },
+      "image" : "/images/20221205.PNG"
+    },
+    {
+      "date" : 20221207,
+      "isAnniversary" : false,
+      "hashTag" : "#유미언니 #결혼식",
+      "schedule" : "동기 언니의 결혼식에 다녀왔다. 신부 드레스를 입은 언니 모습이 너무 예뻤다. 나는 언제 결혼할까..? 결혼식 뷔페가 참 맛있었다 :) ",
+      "spending" : {
+        "transportation" : 3500,
+        "food" : 23000,
+        "cultural" : 150000,
+        "etc" : 2000
+      },
+      "image" : "/images/20221207.PNG"
+    },
+    {
+      "date" : 20221210,
+      "isAnniversary" : true,
+      "hashTag" : "#병가 #파스타",
+      "schedule" : "몸이 좋지 않아서 오늘은 집에서 쉬었다. 저녁에는 파스타를 해 먹었다. 소금을 많이 넣었는지 조금 짰다..",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 6000,
+        "cultural" : 12000,
+        "etc" : 0
+      },
+      "image" : "/images/20221210.PNG"
+    },
+    {
+      "date" : 20221211,
+      "isAnniversary" : false,
+      "hashTag" : "#마트 #학원",
+      "schedule" : "마트에 장 보러 가면 왜 항상 예산이 초과되는지? 자아성찰의 시간 3초 가진 다음 먹은 순두부찌개는 역대급 저녁이었다..",
+      "spending" : {
+        "transportation" : 3000,
+        "food" : 56000,
+        "cultural" : 6000,
+        "etc" : 0
+      },
+      "image" : "/images/20221211.PNG"
+    },
+    {
+      "date" : 20221213,
+      "isAnniversary" : true,
+      "hashTag" : "#카페 #결혼식",
+      "schedule" : "친구가 명동 대성당에서 결혼을 한다기에 갔는데 왠걸 너무 아름답자나ㅠㅠㅠㅠㅠㅠㅠ ㄴr는 ㄱr끔 눈물을 흘린다...★",
+      "spending" : {
+        "transportation" : 7000,
+        "food" : 15000,
+        "cultural" : 12000,
+        "etc" : 100000
+      },
+      "image" : "/images/20221213.PNG"
+    },
+    {
+      "date" : 20221217,
+      "isAnniversary" : false,
+      "hashTag" : "#병원",
+      "schedule" : "뼈와 인대회복을 위해 충격파 치료 받음, 비싸다.",
+      "spending" : {
+        "transportation" : 2400,
+        "food" : 8000,
+        "cultural" : 0,
+        "etc" : 100000
+      },
+      "image" : "/images/20221217.PNG"
+    },
+    {
+      "date" : 20221220,
+      "isAnniversary" : false,
+      "hashTag" : "#산책",
+      "schedule" : "재활을 위해 동네 공원을 천천히 걸엇다.",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 0,
+        "cultural" : 0,
+        "etc" : 0
+      },
+      "image" : "/images/20221220.PNG"
+    },
+    {
+      "date" : 20221221,
+      "isAnniversary" : false,
+      "hashTag" : "#식당 #데이트",
+      "schedule" : "여자친구와 가벼운 복장으로 유명한 파스타를 먹으러 갔는데, 줄이 길어서 한참을 웨이팅을 한 후 먹었지만 너무나 맛이 없었다.",
+      "spending" : {
+          "transportation" : 13000,
+          "food" : 47000,
+          "cultural" : 0,
+          "etc" : 0
+        },
+        "image" : "/images/20221221.PNG"
+    },
+    {
+      "date" : 20221223,
+      "isAnniversary" : true,
+      "hashTag" : "#기념일 #스테이크 #선물",
+      "schedule" : "만난지 16년이 지나 기분을 낼겸 레스토랑을 가서 스테이크를 맛있게 먹고, 선물로 향수를 사주었더니 한달치 생활비가 다나갔지만 마음을 행복하다.",
+      "spending" : {
+        "transportation" : 5000,
+        "food" : 137000,
+        "cultural" : 22000,
+        "etc" : 150000
+      },
+      "image" : "/images/20221223.PNG"
+    },
+    {
+      "date" : 20221226,
+      "isAnniversary" : false,
+      "hashTag" : "#헬스장 #도서관",
+      "schedule" : "커피 한잔 사서 헬스장에서 한시간정도 운동하고 오는길에 도서관에서 보고 싶었던 책을 발견해서 대출해 왔다!",
+      "spending" : {
+        "transportation" : 0,
+        "food" : 13000,
+        "cultural" : 2000,
+        "etc" : 0
+      },
+      "image" : "/images/20221226.PNG"
+    },
+    {
+      "date" : 20221229,
+      "isAnniversary" : true,
+      "hashTag" : "#볼링장 #코인노래방",
+      "schedule" : "친구 생일이라 동네에서 친구들이랑 볼링치면서 내기하고 저녁먹은 다음 코인노래방에서 다같이 노래부르고 놀면서 생일축하해주고 왔다. 생일선물로 다같이 모아서 신발 사줬다",
+      "spending" : {
+        "transportation" : 4500,
+        "food" : 16000,
+        "cultural" : 23000,
+        "etc" : 25000
+      },
+      "image" : "/images/20221229.PNG"
+    }
+  ]
+}

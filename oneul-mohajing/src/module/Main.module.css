@@ -1,0 +1,14 @@
+.board div{
+    display: inline-block;
+    margin: 10px;
+}
+
+.result {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+    font-family: 'Pretendard-Regular';
+    margin-left: 10px;
+    font-weight: bold;
+}
